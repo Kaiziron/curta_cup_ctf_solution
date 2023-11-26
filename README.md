@@ -1,2 +1,3 @@
-# curta_cup_ctf_solution
-Curta Cup CTF local solution
+# Curta Cup CTF local solution
+
+I did not submit the solution, because I don't have mainnet ETH, so I just run them locally
